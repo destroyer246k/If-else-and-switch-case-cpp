@@ -40,3 +40,66 @@ int main()
     }
     return 0;
 }
+
+/*
+output:
+Enter first number: 10
+Enter second number: 5
+Choose an operation:
+1 for Addition
+2 for Subtraction
+3 for Multiplication
+4 for Division
+Enter your choice (1-4): 1
+Result: 15
+
+Enter first number: 10
+Enter second number: 5
+Choose an operation:
+1 for Addition
+2 for Subtraction
+3 for Multiplication
+4 for Division
+Enter your choice (1-4): 2
+Result: 5
+
+Enter first number: 10
+Enter second number: 5
+Choose an operation:
+1 for Addition
+2 for Subtraction
+3 for Multiplication
+4 for Division
+Enter your choice (1-4): 3
+Result: 50
+
+Enter first number: 10
+Enter second number: 5
+Choose an operation:
+1 for Addition
+2 for Subtraction
+3 for Multiplication
+4 for Division
+Enter your choice (1-4): 4
+Result: 2
+
+Enter first number: 10
+Enter second number: 0
+Choose an operation:
+1 for Addition
+2 for Subtraction
+3 for Multiplication
+4 for Division
+Enter your choice (1-4): 4
+Not Divisible by 0.
+
+Enter first number: 10
+Enter second number: 2
+Choose an operation:
+1 for Addition
+2 for Subtraction
+3 for Multiplication
+4 for Division
+Enter your choice (1-4): 7
+Enter Choice from 1 to 4
+*/

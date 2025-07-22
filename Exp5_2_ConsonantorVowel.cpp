@@ -16,4 +16,18 @@ int main()
     }
     return 0; 
 }
+/*
+output:
+Enter a Character: A
+The Charcter A is Vowel.
+
+Enter a Character: o
+The Charcter o is Vowel.
+
+Enter a Character: B
+The Character B is Consonant.
+
+Enter a Character: z
+The Character z is Consonant.
+*/
     

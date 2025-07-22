@@ -1,6 +1,38 @@
 # If-else-and-switch-case-cpp
 Aim: To Study and Implement Decision Making statements in C++.                  
-Tools: GNU g++ compiler (for local execution)Any code editor or an Online C++ Compiler          
+Tools: GNU g++ compiler (for local execution)Any code editor or an Online C++ Compiler  
+# Theory
+
+
+In C++, conditional statements direct the **flow of execution** based on various conditions. They allow a program to make decisions while executing different blocks of code based on whether the conditions are **true or false**. The main conditional structures are **if-else**, **nested if-else**, and **switch-case** statements.
+
+
+## if-else Statement
+
+The **if-else** statement is used to **execute a block of code when the condition is true**, and another block when it is false. It gives you basic decision-making in your programs.
+
+- **if block**: Executes when the condition is true.
+- **else block**: Executes when the condition is false.
+
+This gives rise to **two-way decisions** which controls how the program behaves based on different inputs or states.
+
+## Nested if-else
+
+A **nested if-else** refers to an **if or else statement containing another if-else block**. Nested if-else is helpful when **a number of conditions** have to be checked in a hierarchical or sequential way.
+Nested if-else will allow handling **complex decision trees** because the method calls for the program to continually narrow down its checks.
+
+
+## switch-case Statement
+
+A **switch-case** statement can be used for a lot of **if-else-if chains** especially when comparing the same variable against different constant values. A switch-case statement takes a variable as input and matches it with **case labels** and executes the code below the label if found.
+
+- **switch**: evaluates a single variable or expression.
+- **case**: makes potential values the variable can hold.
+- **break**: terminates the case so that it will not continue into the next case.
+- **default**: will execute if none of the cases match.
+
+A switch-case improves **readability and organization** of code when there are multiple discrete options like menu selections or state machines.
+
 # Program 1: Check Even or Odd
 This program checks to see if the user-entered number is even or odd. 
 The user is asked to enter an integer, the program takes the modulus of that number by 2 using the modulus operator %.  This means if there is no remainder (0), the number is considered to be even. This is done by using if else statements.  

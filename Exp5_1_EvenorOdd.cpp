@@ -15,4 +15,11 @@ int main()
     }
     return 0; 
 }
-    
+/*
+output:
+Enter a number: 4
+The number 4 is even.
+
+Enter a number: 7
+The number 7 is odd.
+*/

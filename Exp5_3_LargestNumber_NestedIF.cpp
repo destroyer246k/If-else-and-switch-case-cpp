@@ -29,4 +29,21 @@ int main()
       }
   }
 }
-    
+  
+/*
+output:
+Enter Number 1:45
+Enter Number 2:33
+Enter Number 3:27
+Number 1: 45 is largest
+
+Enter Number 1:22
+Enter Number 2:66
+Enter Number 3:11
+Number 2: 66 is largest
+
+Enter Number 1:14
+Enter Number 2:19
+Enter Number 3:25
+Number 3: 25 is largest
+*/  

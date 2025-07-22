@@ -32,3 +32,23 @@ int main()
 
     return 0;
 }
+/*
+output:
+Enter any number from 1 to 5:1
+Mathematical Tranformation Techniques.
+
+Enter any number from 1 to 5:2
+Digital Circuit and Logic Design.
+
+Enter any number from 1 to 5:3
+Electronic Devices and Circuits.
+
+Enter any number from 1 to 5:4
+Netowek Theory.
+
+Enter any number from 1 to 5:5
+Signals and Systems.
+
+Enter any number from 1 to 5:6
+Invalid choice.
+*/
